@@ -1,3 +1,6 @@
 #!/usr/bin/env python3
 
-wrong_type = 'abc' + 123
+wrong_type = 321 + 123
+
+#assert(1 == 1)
+
